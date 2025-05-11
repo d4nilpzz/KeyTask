@@ -3,8 +3,8 @@
 </p>
 
 
-KeyTask
----
+# KeyTask
+
 ### Instalation
 To install the program you need to make a folder at `C:\d4nilpzz\KeyTask` and drag the zip file downloaded from the release into the folder that we make before.
 Once in it, you have to decompress and then, they would have to appear 4 files in it. One the `KeyTask.exe` file and his 2 images and a config file `shortcut.json`.
