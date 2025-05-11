@@ -1,3 +1,8 @@
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/9e7b21c0-c7b7-4d03-9546-13521e5c0d65" alt="Icon" width="200"/>
+</p>
+
+
 KeyTask
 ---
 ### Instalation
