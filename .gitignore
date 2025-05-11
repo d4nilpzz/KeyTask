@@ -1,0 +1,10 @@
+./build
+./builds
+
+./dist
+
+.env
+.env.local
+
+shortcuts.json
+KeyTask.spec
